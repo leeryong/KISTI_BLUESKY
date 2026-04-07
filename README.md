@@ -27,7 +27,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/leeryong/DOREA-X"><b>🔗 DOREA-X Repository 바로가기</b></a>
+  <a href="https://github.com/leeryong/DOREA-X"><b>🔗 DOREA-X 바로가기</b></a>
 </p>
 
 **DOREA-X (Document-Oriented Reasoning and Explanation Assistant)**는 
