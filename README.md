@@ -31,9 +31,7 @@
   <a href="https://github.com/leeryong/DOREA-X"><b>🔗 DOREA-X Repository 바로가기</b></a>
 </p>
 
-**DOREA-X (Document-Oriented Reasoning and Explanation Assistant)**는  
-문서 이해부터 분석, 그리고 보고서 작성까지 전 과정을 지원하는  
-**문서 중심 AI 에이전트 시스템**입니다.
+**DOREA-X (Document-Oriented Reasoning and Explanation Assistant)**는 문서 이해부터 분석, 그리고 보고서 작성까지 전 과정을 지원하는  **문서 중심 AI 에이전트 시스템**입니다.
 
 주요 특징:
 - 📄 PDF 및 오피스 문서 등 복잡한 문서 구조 이해  
