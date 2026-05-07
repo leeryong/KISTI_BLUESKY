@@ -47,7 +47,7 @@ DOREA-X가 문서 이해·분석·보고서 작성을 지원하는 문서 중심
 <div align="center">
   <a href="https://github.com/leeryong/DOREA-X">
     <img src="https://raw.githubusercontent.com/leeryong/DOREA-X/main/assets/logo.png" 
-         alt="DOREA-X Logo" width="280"/>
+         alt="DOREA-X Logo" width="90%"/>
   </a>
 </div>
 
