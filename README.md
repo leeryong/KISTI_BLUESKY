@@ -30,12 +30,9 @@
 
 [**NELLA 바로가기**](https://github.com/leeryong/NELLA)
 
-**NELLA (Nifty-Enhanced LLMOps Agent)**는 DOREA-X 이후의 새로운 확장 프로젝트로,  
-문서 기반 지능형 에이전트의 경험을 바탕으로 **도메인 특화 LLM 제작 전 과정을 자동화하는 Agentic LLMOps 플랫폼**입니다.
+**NELLA (Nifty-Enhanced LLMOps Agent)**는 DOREA-X 이후의 새로운 확장 프로젝트로, 문서 기반 지능형 에이전트의 경험을 바탕으로 **도메인 특화 LLM 제작 전 과정을 자동화하는 Agentic LLMOps 플랫폼**입니다.
 
-DOREA-X가 문서 이해·분석·보고서 작성을 지원하는 문서 중심 AI 에이전트라면,  
-NELLA는 문서를 기반으로 학습데이터 생성, 모델 선택, 파인튜닝, 평가, 대화 테스트까지 이어지는  
-**LLM 개발 전주기 자동화**를 목표로 합니다.
+DOREA-X가 문서 이해·분석·보고서 작성을 지원하는 문서 중심 AI 에이전트라면, NELLA는 문서를 기반으로 학습데이터 생성, 모델 선택, 파인튜닝, 평가, 대화 테스트까지 이어지는 **LLM 개발 전주기 자동화**를 목표로 합니다.
 
 주요 특징:
 
