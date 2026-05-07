@@ -19,7 +19,7 @@
 
 # 🤖 ARTWORK
 
-## 🚀 NELLA
+## 🚀 **NELLA**
 
 <a href="https://github.com/leeryong/NELLA">
   <img src="https://raw.githubusercontent.com/leeryong/NELLA/main/assets/NELLA_Concept_Main.png"
@@ -42,7 +42,7 @@ DOREA-X가 문서 이해·분석·보고서 작성을 지원하는 문서 중심
 * Human-in-the-Loop 구조를 통한 자동화와 사용자 통제의 균형
 * 기관 내부 문서 기반 도메인 특화 LLM 구축 지원
 
-## DOREA-X
+## *DOREA-X**
 
 <div align="center">
   <a href="https://github.com/leeryong/DOREA-X">
