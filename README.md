@@ -19,7 +19,7 @@
 
 # 🤖 ARTWORK
 
-## 🚀 Next Project: NELLA
+## 🚀 NELLA
 
 <a href="https://github.com/leeryong/NELLA">
   <img src="https://raw.githubusercontent.com/leeryong/NELLA/main/assets/NELLA_Concept_Main.png"
