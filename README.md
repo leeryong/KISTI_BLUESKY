@@ -27,7 +27,7 @@
        style="border: 1.5px solid #333; border-radius: 8px; box-shadow: 0 3px 8px rgba(0,0,0,0.25);" />
 </a>
 <p align="center">
-[NELLA 바로가기](https://github.com/leeryong/NELLA)
+<a href="https://github.com/leeryong/NELLA"><b>🔗NELLA 바로가기</b></a>
 </p>
 
 **NELLA** (Nifty-Enhanced LLMOps Agent)는 DOREA-X 이후의 새로운 확장 프로젝트로, 문서 기반 지능형 에이전트의 경험을 바탕으로 **도메인 특화 LLM 제작 전 과정을 자동화하는 Agentic LLMOps 플랫폼**입니다.
