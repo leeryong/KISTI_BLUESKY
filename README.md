@@ -22,7 +22,7 @@
 ## 🚀 Next Project: NELLA
 
 <a href="https://github.com/leeryong/NELLA">
-  <img src="https://raw.githubusercontent.com/leeryong/NELLA/main/assets/NELLA-Concept.jpg"
+  <img src="https://raw.githubusercontent.com/leeryong/NELLA/main/assets/NELLA_Concept_Main.png"
        alt="NELLA 시연 이미지"
        width="90%"
        style="border: 1.5px solid #333; border-radius: 8px; box-shadow: 0 3px 8px rgba(0,0,0,0.25);" />
