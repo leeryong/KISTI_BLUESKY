@@ -29,7 +29,7 @@
 | --- | --- |
 | 🎩 **[Scarlet](https://github.com/leeryong/Scarlet)** <sub>· NEW</sub> | 멀티에이전트 지식 탐색 및 추론 시스템 (홈즈–왓슨) |
 | ✍️ **[rhwp Agent Skills](https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY)** | 한글 문서(HWP/HWPX)를 AI 에이전트가 다루는 스킬 |
-| 🛠️ **[NELLA](https://github.com/leeryong/NELLA)** | 도메인 특화 LLM 제작 전 과정 자동화 Agentic LLMOps |
+| 🛠️ **[NELLA](https://github.com/leeryong/NELLA)** | 도메인 특화 LLM 제작 전 과정을 자동화하는 Agentic LLMOps **에이전트** |
 | 📄 **[DOREA-X](https://github.com/leeryong/DOREA-X)** | 문서 이해·분석·보고서 작성 문서 중심 AI 에이전트 |
 
 ---
