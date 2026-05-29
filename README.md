@@ -18,9 +18,8 @@
 
 ## 🆕 최신 소식 (Latest News)
 
-다양한 문서·데이터를 스스로 탐색·정리하고 근거 기반 추론으로 답하는 멀티에이전트 시스템 [**Scarlet**](https://github.com/leeryong/Scarlet)을 새로 선보입니다. *A Study in Scarlet*의 홈즈–왓슨 콤비처럼, **왓슨이 자료를 정리해 지식베이스를 만들고 홈즈가 근거를 추론해 답변**합니다.
-
-이에 앞서, 한글 문서(HWP/HWPX)를 AI 에이전트가 직접 다루는 [**rhwp Agent Skills**](https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY)도 함께 공개했습니다.
+- **[Scarlet](https://github.com/leeryong/Scarlet)** — 다양한 문서·데이터를 스스로 탐색·정리하고 근거 기반 추론으로 답하는 멀티에이전트 지식 탐색·추론 시스템. *A Study in Scarlet*의 홈즈–왓슨 콤비처럼 왓슨이 지식베이스를 만들고 홈즈가 근거를 추론해 답변합니다.
+- **[rhwp Agent Skills](https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY)** — 한글 문서(HWP/HWPX)를 AI 에이전트가 직접 다룰 수 있도록 스킬화. 사람이 손으로 쓴 문서를 에이전트가 인식해 rhwp로 작성하며, 사람과 에이전트가 함께 작성하는 **rhwp-Agent**를 개발 중입니다.
 
 ---
 
@@ -153,4 +152,8 @@ BLUESKY는 DOREA-X의 경험을 기반으로 지속적으로 확장되고 있으
 > 혁신적인 AI 활용을 시도하는 살아있는 실험실**
 
 ---
+
+## 📞 문의
+
+- 이용 (ryonglee@kisti.re.kr)
 
