@@ -18,36 +18,26 @@
 
 ## 🆕 최신 소식 (Latest News)
 
-한글 문서(HWP/HWPX)를 AI 에이전트가 직접 다루는 [**rhwp Agent Skills**](https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY)를 새로 선보입니다. 사람이 손으로 쓴 문서를 에이전트가 인식해 rhwp로 작성하고, 사람과 에이전트가 함께 한글 문서를 작성하는 **rhwp-Agent**를 개발 중입니다.
+다양한 문서·데이터를 스스로 탐색·정리하고 근거 기반 추론으로 답하는 멀티에이전트 시스템 [**Scarlet**](https://github.com/leeryong/Scarlet)을 새로 선보입니다. *A Study in Scarlet*의 홈즈–왓슨 콤비처럼, **왓슨이 자료를 정리해 지식베이스를 만들고 홈즈가 근거를 추론해 답변**합니다.
+
+이에 앞서, 한글 문서(HWP/HWPX)를 AI 에이전트가 직접 다루는 [**rhwp Agent Skills**](https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY)도 함께 공개했습니다.
+
+---
+
+## 📑 기술 · 시스템 목차
+
+| 기술 · 시스템 | 소개 |
+| --- | --- |
+| 🎩 **[Scarlet](https://github.com/leeryong/Scarlet)** <sub>· NEW</sub> | 멀티에이전트 지식 탐색 및 추론 시스템 (홈즈–왓슨) |
+| ✍️ **[rhwp Agent Skills](https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY)** | 한글 문서(HWP/HWPX)를 AI 에이전트가 다루는 스킬 |
+| 🚀 **[NELLA](https://github.com/leeryong/NELLA)** | 도메인 특화 LLM 제작 전 과정 자동화 Agentic LLMOps |
+| 📄 **[DOREA-X](https://github.com/leeryong/DOREA-X)** | 문서 이해·분석·보고서 작성 문서 중심 AI 에이전트 |
 
 ---
 
 # 🤖 ARTWORK
 
-## 🆕 **rhwp Agent Skills** &nbsp;<sub>· 최신 (NEW)</sub>
-
-<div align="center">
-  <a href="https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY">
-    <img src="assets/rhwp-agent-skills.png"
-         alt="rhwp Agent Skills — 손으로 쓴 문서를 에이전트가 인식해 rhwp로 작성"
-         width="90%"
-         style="border: 1.5px solid #333; border-radius: 8px; box-shadow: 0 3px 8px rgba(0,0,0,0.25);" />
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY"><b>🔗 rhwp Agent Skills 바로가기</b></a>
-</p>
-
-**rhwp Agent Skills**는 한글 문서(HWP/HWPX) 편집기 [rhwp](https://github.com/edwardkim/rhwp)를 AI 에이전트가 직접 다룰 수 있도록 **스킬화(skill)** 한 모음입니다. 위 화면처럼 사람이 손으로 쓴 원문을 에이전트가 인식하고, 이 스킬을 사용해 rhwp 문서로 작성합니다.
-
-주요 특징:
-
-- 🧩 rhwp 편집 기능(글자/문단/표/도형, 페이지 설정 등)을 에이전트가 호출 가능한 스킬로 정리
-- 🖥️ `?agent=1` 자동화 브리지로 rhwp 편집기 GUI를 직접 조작·검증
-- ✍️ 사람과 에이전트가 함께 문서를 작성하는 시스템(**rhwp-Agent**)을 개발 중
-
-## 🎩 **Scarlet**
+## 🆕 **Scarlet** &nbsp;<sub>· 최신 (NEW)</sub>
 
 <div align="center">
   <a href="https://github.com/leeryong/Scarlet">
@@ -70,6 +60,29 @@
 - 🎩 **홈즈(Holmes)** — Watson Journal에서 근거를 검색하고 다단계 추론으로 신뢰 가능한 답변 생성
 - 💬 사용자·홈즈·왓슨이 함께 대화하며 근거(evidence)와 추론 경로(reasoning trace)를 제시
 - 🔌 멀티 LLM(Claude·OpenAI·Ollama) 및 다양한 데이터 보관소(VectorDB·DB·검색엔진·MCP 등) 연동
+
+## 🚀 **rhwp Agent Skills**
+
+<div align="center">
+  <a href="https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY">
+    <img src="assets/rhwp-agent-skills.png"
+         alt="rhwp Agent Skills — 손으로 쓴 문서를 에이전트가 인식해 rhwp로 작성"
+         width="90%"
+         style="border: 1.5px solid #333; border-radius: 8px; box-shadow: 0 3px 8px rgba(0,0,0,0.25);" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY"><b>🔗 rhwp Agent Skills 바로가기</b></a>
+</p>
+
+**rhwp Agent Skills**는 한글 문서(HWP/HWPX) 편집기 [rhwp](https://github.com/edwardkim/rhwp)를 AI 에이전트가 직접 다룰 수 있도록 **스킬화(skill)** 한 모음입니다. 위 화면처럼 사람이 손으로 쓴 원문을 에이전트가 인식하고, 이 스킬을 사용해 rhwp 문서로 작성합니다.
+
+주요 특징:
+
+- 🧩 rhwp 편집 기능(글자/문단/표/도형, 페이지 설정 등)을 에이전트가 호출 가능한 스킬로 정리
+- 🖥️ `?agent=1` 자동화 브리지로 rhwp 편집기 GUI를 직접 조작·검증
+- ✍️ 사람과 에이전트가 함께 문서를 작성하는 시스템(**rhwp-Agent**)을 개발 중
 
 ## 🚀 **NELLA**
 
