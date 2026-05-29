@@ -29,14 +29,14 @@
 | --- | --- |
 | 🎩 **[Scarlet](https://github.com/leeryong/Scarlet)** <sub>· NEW</sub> | 멀티에이전트 지식 탐색 및 추론 시스템 (홈즈–왓슨) |
 | ✍️ **[rhwp Agent Skills](https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY)** | 한글 문서(HWP/HWPX)를 AI 에이전트가 다루는 스킬 |
-| 🚀 **[NELLA](https://github.com/leeryong/NELLA)** | 도메인 특화 LLM 제작 전 과정 자동화 Agentic LLMOps |
+| 🛠️ **[NELLA](https://github.com/leeryong/NELLA)** | 도메인 특화 LLM 제작 전 과정 자동화 Agentic LLMOps |
 | 📄 **[DOREA-X](https://github.com/leeryong/DOREA-X)** | 문서 이해·분석·보고서 작성 문서 중심 AI 에이전트 |
 
 ---
 
 # 🤖 ARTWORK
 
-## 🆕 **Scarlet** &nbsp;<sub>· 최신 (NEW)</sub>
+## 🎩 **Scarlet** &nbsp;<sub>· 최신 (NEW)</sub>
 
 <div align="center">
   <a href="https://github.com/leeryong/Scarlet">
@@ -60,7 +60,9 @@
 - 💬 사용자·홈즈·왓슨이 함께 대화하며 근거(evidence)와 추론 경로(reasoning trace)를 제시
 - 🔌 멀티 LLM(Claude·OpenAI·Ollama) 및 다양한 데이터 보관소(VectorDB·DB·검색엔진·MCP 등) 연동
 
-## 🚀 **rhwp Agent Skills**
+---
+
+## ✍️ **rhwp Agent Skills**
 
 <div align="center">
   <a href="https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY">
@@ -83,7 +85,9 @@
 - 🖥️ `?agent=1` 자동화 브리지로 rhwp 편집기 GUI를 직접 조작·검증
 - ✍️ 사람과 에이전트가 함께 문서를 작성하는 시스템(**rhwp-Agent**)을 개발 중
 
-## 🚀 **NELLA**
+---
+
+## 🛠️ **NELLA**
 
 <a href="https://github.com/leeryong/NELLA">
   <img src="https://raw.githubusercontent.com/leeryong/NELLA/main/assets/NELLA_Concept_Main.png"
@@ -107,7 +111,9 @@ DOREA-X가 문서 이해·분석·보고서 작성을 지원하는 문서 중심
 * Human-in-the-Loop 구조를 통한 자동화와 사용자 통제의 균형
 * 기관 내부 문서 기반 도메인 특화 LLM 구축 지원
 
-## **DOREA-X**
+---
+
+## 📄 **DOREA-X**
 
 <div align="center">
   <a href="https://github.com/leeryong/DOREA-X">
