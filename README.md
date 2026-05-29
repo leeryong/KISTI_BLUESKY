@@ -47,6 +47,30 @@
 - 🖥️ `?agent=1` 자동화 브리지로 rhwp 편집기 GUI를 직접 조작·검증
 - ✍️ 사람과 에이전트가 함께 문서를 작성하는 시스템(**rhwp-Agent**)을 개발 중
 
+## 🎩 **Scarlet**
+
+<div align="center">
+  <a href="https://github.com/leeryong/Scarlet">
+    <img src="https://raw.githubusercontent.com/leeryong/Scarlet/main/scarlet_concept.png"
+         alt="Scarlet 개념도 — 멀티에이전트 지식 탐색 및 추론 시스템"
+         width="90%"
+         style="border: 1.5px solid #333; border-radius: 8px; box-shadow: 0 3px 8px rgba(0,0,0,0.25);" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/leeryong/Scarlet"><b>🔗 Scarlet 바로가기</b></a>
+</p>
+
+**Scarlet**은 다양한 문서와 데이터를 스스로 탐색·정리하고, 근거 기반 추론으로 답변을 생성하는 **멀티에이전트 지식 탐색 및 추론 시스템**입니다. 코난 도일의 *A Study in Scarlet*의 홈즈–왓슨 콤비를 모티프로, 두 에이전트가 역할을 나눠 협업합니다 — **왓슨이 정리하고, 홈즈가 추론합니다.**
+
+주요 특징:
+
+- 🩺 **왓슨(Watson)** — 다양한 문서·데이터를 수집·파싱·구조화해 지식베이스(Watson Journal)를 구축
+- 🎩 **홈즈(Holmes)** — Watson Journal에서 근거를 검색하고 다단계 추론으로 신뢰 가능한 답변 생성
+- 💬 사용자·홈즈·왓슨이 함께 대화하며 근거(evidence)와 추론 경로(reasoning trace)를 제시
+- 🔌 멀티 LLM(Claude·OpenAI·Ollama) 및 다양한 데이터 보관소(VectorDB·DB·검색엔진·MCP 등) 연동
+
 ## 🚀 **NELLA**
 
 <a href="https://github.com/leeryong/NELLA">
