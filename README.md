@@ -16,7 +16,36 @@
 
 ---
 
+## 🆕 최신 소식 (Latest News)
+
+한글 문서(HWP/HWPX)를 AI 에이전트가 직접 다루는 [**rhwp Agent Skills**](https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY)를 새로 선보입니다. 사람이 손으로 쓴 문서를 에이전트가 인식해 rhwp로 작성하고, 사람과 에이전트가 함께 한글 문서를 작성하는 **rhwp-Agent**를 개발 중입니다.
+
+---
+
 # 🤖 ARTWORK
+
+## 🆕 **rhwp Agent Skills** &nbsp;<sub>· 최신 (NEW)</sub>
+
+<div align="center">
+  <a href="https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY">
+    <img src="assets/rhwp-agent-skills.png"
+         alt="rhwp Agent Skills — 손으로 쓴 문서를 에이전트가 인식해 rhwp로 작성"
+         width="90%"
+         style="border: 1.5px solid #333; border-radius: 8px; box-shadow: 0 3px 8px rgba(0,0,0,0.25);" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY"><b>🔗 rhwp Agent Skills 바로가기</b></a>
+</p>
+
+**rhwp Agent Skills**는 한글 문서(HWP/HWPX) 편집기 [rhwp](https://github.com/edwardkim/rhwp)를 AI 에이전트가 직접 다룰 수 있도록 **스킬화(skill)** 한 모음입니다. 위 화면처럼 사람이 손으로 쓴 원문을 에이전트가 인식하고, 이 스킬을 사용해 rhwp 문서로 작성합니다.
+
+주요 특징:
+
+- 🧩 rhwp 편집 기능(글자/문단/표/도형, 페이지 설정 등)을 에이전트가 호출 가능한 스킬로 정리
+- 🖥️ `?agent=1` 자동화 브리지로 rhwp 편집기 GUI를 직접 조작·검증
+- ✍️ 사람과 에이전트가 함께 문서를 작성하는 시스템(**rhwp-Agent**)을 개발 중
 
 ## 🚀 **NELLA**
 
