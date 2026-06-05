@@ -6,6 +6,7 @@
 
 ## 🆕 최신 소식 (Latest News)
 
+- **[ParserTry](https://github.com/leeryong/ParserTry)** — 21종+ PDF 파서를 웹 UI에서 즉시 실행·비교하는 도구. 텍스트·ML·OCR·VLM 계열 파서를 한 화면에서 돌려보고, 내 문서에 가장 맞는 파서를 직접 확인할 수 있습니다. `python run.py` 한 줄로 바로 실행됩니다.
 - **[Scarlet](https://github.com/leeryong/Scarlet)** — 다양한 문서·데이터를 스스로 탐색·정리하고 근거 기반 추론으로 답하는 멀티에이전트 지식 탐색·추론 시스템. *A Study in Scarlet*의 홈즈–왓슨 콤비처럼 왓슨이 지식베이스를 만들고 홈즈가 근거를 추론해 답변합니다.
 - **[rhwp Agent Skills](https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY)** — 한글 문서(HWP/HWPX)를 AI 에이전트가 직접 다룰 수 있도록 스킬화. 사람이 손으로 쓴 문서를 에이전트가 인식해 rhwp로 작성하며, 사람과 에이전트가 함께 작성하는 **rhwp-Agent**를 개발 중입니다.
 
@@ -15,7 +16,8 @@
 
 | 기술 · 시스템 | 소개 |
 | --- | --- |
-| 🎩 **[Scarlet](https://github.com/leeryong/Scarlet)** <sub>· NEW</sub> | 멀티에이전트 지식 탐색 및 추론 시스템 (홈즈–왓슨) |
+| 🗂️ **[ParserTry](https://github.com/leeryong/ParserTry)** <sub>· NEW</sub> | 21종+ PDF 파서 즉시 실행·비교 로컬 웹앱 |
+| 🎩 **[Scarlet](https://github.com/leeryong/Scarlet)** | 멀티에이전트 지식 탐색 및 추론 시스템 (홈즈–왓슨) |
 | ✍️ **[rhwp Agent Skills](https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY)** | 한글 문서(HWP/HWPX)를 AI 에이전트가 다루는 스킬 |
 | 🛠️ **[NELLA](https://github.com/leeryong/NELLA)** | 도메인 특화 LLM 제작 전 과정을 자동화하는 Agentic LLMOps **에이전트** |
 | 📄 **[DOREA-X](https://github.com/leeryong/DOREA-X)** | 문서 이해·분석·보고서 작성 문서 중심 AI 에이전트 |
@@ -24,7 +26,34 @@
 
 # 🤖 ARTWORK
 
-## 🎩 **Scarlet** &nbsp;<sub>· 최신 (NEW)</sub>
+## 🗂️ **ParserTry** &nbsp;<sub>· 최신 (NEW)</sub>
+
+<div align="center">
+  <a href="https://github.com/leeryong/ParserTry">
+    <img src="https://raw.githubusercontent.com/leeryong/ParserTry/main/frontend/assets/concept_ko.png"
+         alt="ParserTry — PDF 파서 비교 도구"
+         width="90%"
+         style="border: 1.5px solid #333; border-radius: 8px; box-shadow: 0 3px 8px rgba(0,0,0,0.25);" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/leeryong/ParserTry"><b>🔗 ParserTry 바로가기</b></a>
+</p>
+
+**ParserTry**는 **21종+ PDF 파서를 웹 UI에서 즉시 실행·비교**하는 로컬 웹앱입니다. 모든 PDF에 하나의 파서가 최고가 아닙니다 — RAG 파이프라인 구축 전, 내 문서에 가장 잘 맞는 파서를 직접 확인할 수 있습니다.
+
+주요 특징:
+
+- 🗂️ **21종+ 파서 지원** — 텍스트(PyMuPDF·pdfplumber 등), ML 레이아웃(Docling·MinerU·Marker), OCR(PaddleOCR·EasyOCR), VLM(Claude·GPT·Gemini·Ollama)
+- 📄 **문서 뷰어 + 오버레이** — PDF 원본 위에 파서가 인식한 요소를 색상 박스로 표시, 좌우 비교
+- 💡 **파서 추천 분석** — 문서 특성(텍스트 레이어·이미지·표·언어)을 자동 분석해 적합도 순위 제시
+- 📊 **실측 기반 비교표** — 샘플 4종 문서 직접 측정, 품질 × 처리속도 산점도 제공
+- ⚙️ **확장형 구조** — 새로운 파서를 계속 추가 가능, `python run.py` 한 줄로 즉시 실행
+
+---
+
+## 🎩 **Scarlet**
 
 <div align="center">
   <a href="https://github.com/leeryong/Scarlet">
