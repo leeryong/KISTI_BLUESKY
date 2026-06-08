@@ -1,5 +1,11 @@
 # 🌌 BLUESKY
 
+<div align="right">
+
+**한국어** | [English](README.en.md)
+
+</div>
+
 > **BLUESKY: Harmonizing Human and AI Collaboration**
 
 ---
