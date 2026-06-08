@@ -197,4 +197,4 @@ This repository is **a living space that reflects the latest updates, experiment
 
 ## 📞 Contact
 
-- Yong Lee (ryonglee@kisti.re.kr)
+- Ryong Lee (ryonglee@kisti.re.kr)
