@@ -12,10 +12,10 @@
 
 ## 🆕 Latest News
 
-- **[NELLA](https://github.com/leeryong/NELLA)** — An Agentic LLMOps agent that builds the model for you once you give it documents. **Docker-based installation released** — after a `clone`, just a few commands run it locally right away.
-- **[ParserTry](https://github.com/leeryong/ParserTry)** — A tool to instantly run and compare 21+ PDF parsers in a web UI. Run text/ML/OCR/VLM parsers on one screen and see for yourself which parser best fits your documents.
-- **[Scarlet](https://github.com/leeryong/Scarlet)** — A multi-agent knowledge exploration and reasoning system that autonomously explores and organizes diverse documents and data, then answers with evidence-based reasoning. Like the Holmes–Watson duo in *A Study in Scarlet*, Watson builds the knowledge base and Holmes reasons over the evidence to answer.
-- **[rhwp Agent Skills](https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY)** — Skillifying Korean documents (HWP/HWPX) so AI agents can handle them directly. Agents recognize handwritten documents and author them in rhwp; we are developing **rhwp-Agent**, where humans and agents write together.
+- **[NELLA](https://github.com/leeryong/NELLA/blob/main/README.en.md)** — An Agentic LLMOps agent that builds the model for you once you give it documents. **Docker-based installation released** — after a `clone`, just a few commands run it locally right away.
+- **[ParserTry](https://github.com/leeryong/ParserTry/blob/main/README_Eng.md)** — A tool to instantly run and compare 21+ PDF parsers in a web UI. Run text/ML/OCR/VLM parsers on one screen and see for yourself which parser best fits your documents.
+- **[Scarlet](https://github.com/leeryong/Scarlet/blob/main/README.en.md)** — A multi-agent knowledge exploration and reasoning system that autonomously explores and organizes diverse documents and data, then answers with evidence-based reasoning. Like the Holmes–Watson duo in *A Study in Scarlet*, Watson builds the knowledge base and Holmes reasons over the evidence to answer.
+- **[rhwp Agent Skills](https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY/blob/main/README.en.md)** — Skillifying Korean documents (HWP/HWPX) so AI agents can handle them directly. Agents recognize handwritten documents and author them in rhwp; we are developing **rhwp-Agent**, where humans and agents write together.
 
 ---
 
@@ -23,11 +23,11 @@
 
 | Technology · System | Description |
 | --- | --- |
-| 🗂️ **[ParserTry](https://github.com/leeryong/ParserTry)** <sub>· NEW</sub> | Local web app to instantly run and compare 21+ PDF parsers |
-| 🎩 **[Scarlet](https://github.com/leeryong/Scarlet)** | Multi-agent knowledge exploration and reasoning system (Holmes–Watson) |
-| ✍️ **[rhwp Agent Skills](https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY)** | Skills letting AI agents handle Korean documents (HWP/HWPX) |
-| 🛠️ **[NELLA](https://github.com/leeryong/NELLA)** | An Agentic LLMOps **agent** that automates the entire domain-specialized LLM building process |
-| 📄 **[DOREA-X](https://github.com/leeryong/DOREA-X)** | A document-centric AI agent for document understanding, analysis, and report writing |
+| 🗂️ **[ParserTry](https://github.com/leeryong/ParserTry/blob/main/README_Eng.md)** <sub>· NEW</sub> | Local web app to instantly run and compare 21+ PDF parsers |
+| 🎩 **[Scarlet](https://github.com/leeryong/Scarlet/blob/main/README.en.md)** | Multi-agent knowledge exploration and reasoning system (Holmes–Watson) |
+| ✍️ **[rhwp Agent Skills](https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY/blob/main/README.en.md)** | Skills letting AI agents handle Korean documents (HWP/HWPX) |
+| 🛠️ **[NELLA](https://github.com/leeryong/NELLA/blob/main/README.en.md)** | An Agentic LLMOps **agent** that automates the entire domain-specialized LLM building process |
+| 📄 **[DOREA-X](https://github.com/leeryong/DOREA-X/blob/main/README.en.md)** | A document-centric AI agent for document understanding, analysis, and report writing |
 
 ---
 
@@ -36,7 +36,7 @@
 ## 🗂️ **ParserTry** &nbsp;<sub>· NEW</sub>
 
 <div align="center">
-  <a href="https://github.com/leeryong/ParserTry">
+  <a href="https://github.com/leeryong/ParserTry/blob/main/README_Eng.md">
     <img src="https://raw.githubusercontent.com/leeryong/ParserTry/main/frontend/assets/concept_ko.png"
          alt="ParserTry — PDF parser comparison tool"
          width="90%"
@@ -45,7 +45,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/leeryong/ParserTry"><b>🔗 Go to ParserTry</b></a>
+  <a href="https://github.com/leeryong/ParserTry/blob/main/README_Eng.md"><b>🔗 Go to ParserTry</b></a>
 </p>
 
 **ParserTry** is a local web app that **instantly runs and compares 21+ PDF parsers in a web UI**. No single parser is best for every PDF — before building a RAG pipeline, you can see for yourself which parser best fits your documents.
@@ -63,7 +63,7 @@ Key features:
 ## 🎩 **Scarlet**
 
 <div align="center">
-  <a href="https://github.com/leeryong/Scarlet">
+  <a href="https://github.com/leeryong/Scarlet/blob/main/README.en.md">
     <img src="https://raw.githubusercontent.com/leeryong/Scarlet/main/scarlet_concept.png"
          alt="Scarlet concept — multi-agent knowledge exploration and reasoning system"
          width="90%"
@@ -72,7 +72,7 @@ Key features:
 </div>
 
 <p align="center">
-  <a href="https://github.com/leeryong/Scarlet"><b>🔗 Go to Scarlet</b></a>
+  <a href="https://github.com/leeryong/Scarlet/blob/main/README.en.md"><b>🔗 Go to Scarlet</b></a>
 </p>
 
 **Scarlet** is a **multi-agent knowledge exploration and reasoning system** that autonomously explores and organizes diverse documents and data, then generates answers through evidence-based reasoning. Inspired by the Holmes–Watson duo in Conan Doyle's *A Study in Scarlet*, two agents divide roles and collaborate — **Watson organizes, Holmes reasons.**
@@ -89,7 +89,7 @@ Key features:
 ## ✍️ **rhwp Agent Skills**
 
 <div align="center">
-  <a href="https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY">
+  <a href="https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY/blob/main/README.en.md">
     <img src="assets/rhwp-agent-skills.png"
          alt="rhwp Agent Skills — agents recognize handwritten documents and author them in rhwp"
          width="90%"
@@ -98,7 +98,7 @@ Key features:
 </div>
 
 <p align="center">
-  <a href="https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY"><b>🔗 Go to rhwp Agent Skills</b></a>
+  <a href="https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY/blob/main/README.en.md"><b>🔗 Go to rhwp Agent Skills</b></a>
 </p>
 
 **rhwp Agent Skills** is a collection that **skillifies** the Korean document (HWP/HWPX) editor [rhwp](https://github.com/edwardkim/rhwp) so AI agents can handle it directly. As shown above, an agent recognizes a handwritten source and uses these skills to author it as an rhwp document.
@@ -113,14 +113,14 @@ Key features:
 
 ## 🛠️ **NELLA**
 
-<a href="https://github.com/leeryong/NELLA">
+<a href="https://github.com/leeryong/NELLA/blob/main/README.en.md">
   <img src="https://raw.githubusercontent.com/leeryong/NELLA/main/assets/NELLA_Concept_Main_EN.png"
        alt="NELLA demo image"
        width="90%"
        style="border: 1.5px solid #333; border-radius: 8px; box-shadow: 0 3px 8px rgba(0,0,0,0.25);" />
 </a>
 <p align="center">
-<a href="https://github.com/leeryong/NELLA"><b>🔗 Go to NELLA</b></a>
+<a href="https://github.com/leeryong/NELLA/blob/main/README.en.md"><b>🔗 Go to NELLA</b></a>
 </p>
 
 **NELLA** (Nifty-Enhanced LLMOps Agent) is a new extension project following DOREA-X. Building on the experience of document-based intelligent agents, it is an **Agentic LLMOps agent that automates the entire domain-specialized LLM building process**.
@@ -140,14 +140,14 @@ Key features:
 ## 📄 **DOREA-X**
 
 <div align="center">
-  <a href="https://github.com/leeryong/DOREA-X">
+  <a href="https://github.com/leeryong/DOREA-X/blob/main/README.en.md">
     <img src="https://raw.githubusercontent.com/leeryong/DOREA-X/main/assets/logo.png" 
          alt="DOREA-X Logo" width="90%"/>
   </a>
 </div>
 
 <p align="center">
-  <a href="https://github.com/leeryong/DOREA-X"><b>🔗 Go to DOREA-X</b></a>
+  <a href="https://github.com/leeryong/DOREA-X/blob/main/README.en.md"><b>🔗 Go to DOREA-X</b></a>
 </p>
 
 **DOREA-X** (Document-Oriented Reasoning and Explanation Assistant) is a **document-centric AI agent system** that supports the entire process from document understanding to analysis and report writing.
