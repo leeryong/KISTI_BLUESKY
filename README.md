@@ -19,7 +19,7 @@
 >
 > ➡️ **[NELLA 바로가기](https://github.com/leeryong/NELLA)**
 
-> ### 🎉 ${\color{red}\textsf{공개판 DOREA-XP 출시!}}$
+> ### 🎉 ${\color{red}\textsf{DOREA-X 배포판(DOREA-XP) 공개!}}$
 >
 > 연구·교육·업무 현장에서 누구나 받아 직접 사용할 수 있도록 핵심 기능을 정리한 **공개판**을 제공합니다.
 > Docker만 설치돼 있으면 `./install/install.sh` **한 줄로 설치** 완료.
