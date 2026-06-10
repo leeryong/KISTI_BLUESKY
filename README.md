@@ -14,7 +14,7 @@
 
 > ### 🎪 ${\color{red}\textsf{DOREA-X, 스마트테크 코리아 2026 전시 중!}}$
 >
-> **2026년 6월 10일(수)~12일(금), 서울 코엑스(COEX)**에서 열리는 [제15회 스마트테크 코리아(STK 2026)](https://smarttechkorea.com/)
+> <b>2026년 6월 10일(수)~12일(금), 서울 코엑스(COEX)</b>에서 열리는 [제15회 스마트테크 코리아(STK 2026)](https://smarttechkorea.com/)
 > **KISTI 부스**에서 DOREA-X를 전시하고 있습니다. 현장에서 직접 만나보세요!
 
 <div align="center">
