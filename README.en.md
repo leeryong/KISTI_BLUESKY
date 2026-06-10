@@ -26,7 +26,7 @@
 
 > ### 🎉 ${\color{red}\textsf{DOREA-X Distribution (DOREA-XP) Released!}}$
 >
-> A **public edition** packaging the core features of DOREA-X so anyone in research, education, or everyday work can download and use it directly.
+> A **distribution** packaging the core features of DOREA-X so anyone in research, education, or everyday work can download and use it directly.
 > With Docker installed, a single line — `./install/install.sh` — **completes the installation**.
 >
 > ➡️ **[Go to DOREA-XP](https://github.com/leeryong/DOREA-X/tree/main/DOREA-XP)**
