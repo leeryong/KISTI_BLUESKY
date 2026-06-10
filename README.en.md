@@ -17,6 +17,13 @@
 > DOREA-X is being exhibited at the **KISTI booth** at [Smart Tech Korea 2026 (STK 2026)](https://smarttechkorea.com/),
 > held at **COEX, Seoul, June 10–12, 2026**. Come see it in person!
 
+<div align="center">
+  <img src="assets/stk2026_kisti_booth.jpg"
+       alt="KISTI booth at Smart Tech Korea 2026 — DOREA-X on display"
+       width="90%"
+       style="border: 1.5px solid #333; border-radius: 8px; box-shadow: 0 3px 8px rgba(0,0,0,0.25);" />
+</div>
+
 > ### 🎉 ${\color{red}\textsf{NELLA Distribution Released!}}$
 >
 > The **distribution of NELLA** — an Agentic LLMOps agent that builds the model for you once you give it documents — is now publicly available.
