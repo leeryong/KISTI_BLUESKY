@@ -17,6 +17,13 @@
 > **2026년 6월 10일(수)~12일(금), 서울 코엑스(COEX)**에서 열리는 [제15회 스마트테크 코리아(STK 2026)](https://smarttechkorea.com/)
 > **KISTI 부스**에서 DOREA-X를 전시하고 있습니다. 현장에서 직접 만나보세요!
 
+<div align="center">
+  <img src="assets/stk2026_kisti_booth.jpg"
+       alt="스마트테크 코리아 2026 KISTI 부스 — DOREA-X 전시 현장"
+       width="90%"
+       style="border: 1.5px solid #333; border-radius: 8px; box-shadow: 0 3px 8px rgba(0,0,0,0.25);" />
+</div>
+
 > ### 🎉 ${\color{red}\textsf{NELLA 배포판 공개!}}$
 >
 > 문서만 주면 알아서 모델을 만들어주는 Agentic LLMOps 에이전트 **NELLA의 배포판**이 공개되었습니다.
