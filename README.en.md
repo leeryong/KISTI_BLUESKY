@@ -12,6 +12,13 @@
 
 ## 🆕 Latest News
 
+> ### 🎉 ${\color{red}\textsf{NELLA Distribution Released!}}$
+>
+> The **distribution of NELLA** — an Agentic LLMOps agent that builds the model for you once you give it documents — is now publicly available.
+> With Docker installed, just `clone` and run `docker compose up -d --build` — **a few commands run it locally right away**.
+>
+> ➡️ **[Go to NELLA](https://github.com/leeryong/NELLA/blob/main/README.en.md)**
+
 > ### 🎉 ${\color{red}\textsf{DOREA-XP Public Edition Released!}}$
 >
 > A **public edition** packaging the core features of DOREA-X so anyone in research, education, or everyday work can download and use it directly.
@@ -19,7 +26,6 @@
 >
 > ➡️ **[Go to DOREA-XP](https://github.com/leeryong/DOREA-X/tree/main/DOREA-XP)**
 
-- **[NELLA](https://github.com/leeryong/NELLA/blob/main/README.en.md)** — An Agentic LLMOps agent that builds the model for you once you give it documents. **Docker-based installation released** — after a `clone`, just a few commands run it locally right away.
 - **[ParserTry](https://github.com/leeryong/ParserTry/blob/main/README_Eng.md)** — A tool to instantly run and compare 21+ PDF parsers in a web UI. Run text/ML/OCR/VLM parsers on one screen and see for yourself which parser best fits your documents.
 - **[Scarlet](https://github.com/leeryong/Scarlet/blob/main/README.en.md)** — A multi-agent knowledge exploration and reasoning system that autonomously explores and organizes diverse documents and data, then answers with evidence-based reasoning. Like the Holmes–Watson duo in *A Study in Scarlet*, Watson builds the knowledge base and Holmes reasons over the evidence to answer.
 - **[rhwp Agent Skills](https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY/blob/main/README.en.md)** — Skillifying Korean documents (HWP/HWPX) so AI agents can handle them directly. Agents recognize handwritten documents and author them in rhwp; we are developing **rhwp-Agent**, where humans and agents write together.
