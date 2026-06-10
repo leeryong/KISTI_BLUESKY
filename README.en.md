@@ -12,7 +12,7 @@
 
 ## 🆕 Latest News
 
-> ### 🎉 **DOREA-XP** Public Edition Released!
+> ### 🎉 ${\color{red}\textsf{DOREA-XP Public Edition Released!}}$
 >
 > A **public edition** packaging the core features of DOREA-X so anyone in research, education, or everyday work can download and use it directly.
 > With Docker installed, a single line — `./install/install.sh` — **completes the installation**.
