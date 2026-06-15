@@ -1,4 +1,4 @@
-# 🌌 KISTI BLUESKY
+# 🌌 KISTI-NTIS BLUESKY
 
 <div align="right">
 
@@ -224,4 +224,5 @@ This repository is **a living space that reflects the latest updates, experiment
 
 ## 📞 Contact
 
+- KISTI-NTIS
 - Ryong Lee (ryonglee@kisti.re.kr)
