@@ -224,6 +224,5 @@ BLUESKY는 DOREA-X의 경험을 기반으로 지속적으로 확장되고 있으
 
 ## 📞 문의
 
-- KISTI-NTIS
-- 이용 (ryonglee@kisti.re.kr)
+- 이용 (Ryong Lee), KISTI-NTIS — ryonglee@kisti.re.kr
 
