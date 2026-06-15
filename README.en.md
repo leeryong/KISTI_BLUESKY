@@ -1,4 +1,4 @@
-# 🌌 BLUESKY
+# 🌌 KISTI BLUESKY
 
 <div align="right">
 
@@ -12,10 +12,12 @@
 
 ## 🆕 Latest News
 
-> ### 🎪 ${\color{red}\textsf{DOREA-X on display at Smart Tech Korea 2026!}}$
+> ### 🎪 ${\color{gray}\textsf{DOREA-X exhibited at Smart Tech Korea 2026 — wrapped up!}}$
 >
-> DOREA-X is being exhibited at the **KISTI booth** at [Smart Tech Korea 2026 (STK 2026)](https://smarttechkorea.com/),
-> held at **COEX, Seoul, June 10–12, 2026**. Come see it in person!
+> DOREA-X was successfully exhibited at the **KISTI booth** at [Smart Tech Korea 2026 (STK 2026)](https://smarttechkorea.com/),
+> held at **COEX, Seoul, June 10–12, 2026**. Thanks to everyone who stopped by! 🙏
+>
+> 📑 **[View the exhibition brochure (PDF)](assets/STK2026_DOREA-X_brochure.pdf)**
 
 <div align="center">
   <img src="assets/stk2026_kisti_booth.jpg"
