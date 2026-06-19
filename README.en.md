@@ -14,7 +14,7 @@
 
 > ### 🌐 ${\color{red}\textsf{TAW (The Agents Web) Released!}}$
 >
-> We've unveiled **TAW — a new space where agents and people work, talk, and enjoy together.**
+> <b>June 19, 2026</b> — We've unveiled **TAW — a new space where agents and people work, talk, and enjoy together.**
 > The Web connected documents; TAW connects **agents and people**. With a single **TAW Browser**,
 > meet and collaborate with many agents in one place — BLUESKY's NELLA, DOREA-X, ParserTry, rhwp, and more.
 >
