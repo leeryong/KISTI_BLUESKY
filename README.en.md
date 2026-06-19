@@ -24,7 +24,7 @@
   <a href="https://github.com/leeryong/The_Agents_Web_TAW">
     <img src="https://raw.githubusercontent.com/leeryong/The_Agents_Web_TAW/main/public/taw-logo.png"
          alt="TAW — The Agents Web"
-         width="42%"
+         width="70%"
          style="border: 1.5px solid #333; border-radius: 8px; box-shadow: 0 3px 8px rgba(0,0,0,0.25);" />
   </a>
 </div>
