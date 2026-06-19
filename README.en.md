@@ -12,6 +12,23 @@
 
 ## 🆕 Latest News
 
+> ### 🌐 ${\color{red}\textsf{TAW (The Agents Web) Released!}}$
+>
+> We've unveiled **TAW — a new space where agents and people work, talk, and enjoy together.**
+> The Web connected documents; TAW connects **agents and people**. With a single **TAW Browser**,
+> meet and collaborate with many agents in one place — BLUESKY's NELLA, DOREA-X, ParserTry, rhwp, and more.
+>
+> ➡️ **[Go to TAW](https://github.com/leeryong/The_Agents_Web_TAW)**
+
+<div align="center">
+  <a href="https://github.com/leeryong/The_Agents_Web_TAW">
+    <img src="https://raw.githubusercontent.com/leeryong/The_Agents_Web_TAW/main/public/taw-logo.png"
+         alt="TAW — The Agents Web"
+         width="42%"
+         style="border: 1.5px solid #333; border-radius: 8px; box-shadow: 0 3px 8px rgba(0,0,0,0.25);" />
+  </a>
+</div>
+
 > ### 🎪 ${\color{gray}\textsf{DOREA-X exhibited at Smart Tech Korea 2026 — wrapped up!}}$
 >
 > DOREA-X was successfully exhibited at the **KISTI booth** at [Smart Tech Korea 2026 (STK 2026)](https://smarttechkorea.com/),
@@ -50,6 +67,7 @@
 
 | Technology · System | Description |
 | --- | --- |
+| 🌐 **[TAW (The Agents Web)](https://github.com/leeryong/The_Agents_Web_TAW)** <sub>· NEW</sub> | The Agents Web — meet and collaborate with many agents from a single TAW Browser |
 | 🗂️ **[ParserTry](https://github.com/leeryong/ParserTry/blob/main/README_Eng.md)** <sub>· NEW</sub> | Local web app to instantly run and compare 21+ PDF parsers |
 | 🎩 **[Scarlet](https://github.com/leeryong/Scarlet/blob/main/README.en.md)** | Multi-agent knowledge exploration and reasoning system (Holmes–Watson) |
 | ✍️ **[rhwp Agent Skills](https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY/blob/main/README.en.md)** | Skills letting AI agents handle Korean documents (HWP/HWPX) |

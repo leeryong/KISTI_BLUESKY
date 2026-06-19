@@ -12,6 +12,23 @@
 
 ## 🆕 최신 소식 (Latest News)
 
+> ### 🌐 ${\color{red}\textsf{TAW (The Agents Web) 공개!}}$
+>
+> **에이전트와 사람이 함께 일하고 소통하고 즐기는 새로운 공간**, TAW를 공개했습니다.
+> 웹이 문서를 연결했듯, TAW는 **에이전트와 사람**을 연결합니다. **TAW Browser** 하나로
+> BLUESKY의 NELLA·DOREA-X·ParserTry·rhwp 등 다양한 에이전트를 한곳에서 만나 협업하세요.
+>
+> ➡️ **[TAW 바로가기](https://github.com/leeryong/The_Agents_Web_TAW/blob/main/README.ko.md)**
+
+<div align="center">
+  <a href="https://github.com/leeryong/The_Agents_Web_TAW/blob/main/README.ko.md">
+    <img src="https://raw.githubusercontent.com/leeryong/The_Agents_Web_TAW/main/public/taw-logo.png"
+         alt="TAW — The Agents Web"
+         width="42%"
+         style="border: 1.5px solid #333; border-radius: 8px; box-shadow: 0 3px 8px rgba(0,0,0,0.25);" />
+  </a>
+</div>
+
 > ### 🎪 ${\color{gray}\textsf{DOREA-X, 스마트테크 코리아 2026 전시 완료!}}$
 >
 > <b>2026년 6월 10일(수)~12일(금), 서울 코엑스(COEX)</b>에서 열린 [제15회 스마트테크 코리아(STK 2026)](https://smarttechkorea.com/)
@@ -50,6 +67,7 @@
 
 | 기술 · 시스템 | 소개 |
 | --- | --- |
+| 🌐 **[TAW (The Agents Web)](https://github.com/leeryong/The_Agents_Web_TAW/blob/main/README.ko.md)** <sub>· NEW</sub> | 에이전트와 사람이 함께 일하는 에이전트 웹 — TAW Browser로 다양한 에이전트와 협업 |
 | 🗂️ **[ParserTry](https://github.com/leeryong/ParserTry)** <sub>· NEW</sub> | 21종+ PDF 파서 즉시 실행·비교 로컬 웹앱 |
 | 🎩 **[Scarlet](https://github.com/leeryong/Scarlet)** | 멀티에이전트 지식 탐색 및 추론 시스템 (홈즈–왓슨) |
 | ✍️ **[rhwp Agent Skills](https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY)** | 한글 문서(HWP/HWPX)를 AI 에이전트가 다루는 스킬 |
