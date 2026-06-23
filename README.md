@@ -64,26 +64,6 @@
        style="border: 1.5px solid #333; border-radius: 8px; box-shadow: 0 3px 8px rgba(0,0,0,0.25);" />
 </div>
 
-> ### 🎉 ${\color{red}\textsf{NELLA 배포판 공개!}}$
->
-> 문서만 주면 알아서 모델을 만들어주는 Agentic LLMOps 에이전트 **NELLA의 배포판**이 공개되었습니다.
-> Docker만 설치돼 있으면 `clone` 후 `docker compose up -d --build` **명령 몇 줄로 바로 실행**할 수 있습니다.
->
-> ➡️ **[NELLA 바로가기](https://github.com/leeryong/NELLA)**
-
-> ### 🎉 ${\color{red}\textsf{DOREA-X 배포판(DOREA-XP) 공개!}}$
->
-> 연구·교육·업무 현장에서 누구나 받아 직접 사용할 수 있도록 핵심 기능을 정리한 **배포판**을 공개했습니다.
-> Docker만 설치돼 있으면 `./install/install.sh` **한 줄로 설치** 완료.
->
-> ➡️ **[DOREA-XP 바로가기](https://github.com/leeryong/DOREA-X/tree/main/DOREA-XP)**
-
-- **[ParserTry](https://github.com/leeryong/ParserTry)** — 21종+ PDF 파서를 웹 UI에서 즉시 실행·비교하는 도구. 텍스트·ML·OCR·VLM 계열 파서를 한 화면에서 돌려보고, 내 문서에 가장 맞는 파서를 직접 확인할 수 있습니다.
-- **[Scarlet](https://github.com/leeryong/Scarlet)** — 다양한 문서·데이터를 스스로 탐색·정리하고 근거 기반 추론으로 답하는 멀티에이전트 지식 탐색·추론 시스템. *A Study in Scarlet*의 홈즈–왓슨 콤비처럼 왓슨이 지식베이스를 만들고 홈즈가 근거를 추론해 답변합니다.
-- **[rhwp Agent Skills](https://github.com/leeryong/rhwp-Agent-Skills_by_BLUESKY)** — 한글 문서(HWP/HWPX)를 AI 에이전트가 직접 다룰 수 있도록 스킬화. 사람이 손으로 쓴 문서를 에이전트가 인식해 rhwp로 작성하며, 사람과 에이전트가 함께 작성하는 **rhwp-Agent**를 개발 중입니다.
-
----
-
 ## 📑 기술 · 시스템 목차
 
 | 기술 · 시스템 | 소개 |
