@@ -12,7 +12,14 @@
 
 ## 🆕 최신 소식 (Latest News)
 
-> ### 🌐 ${\color{red}\textsf{TAW (The Agents Web) 공개!}}$
+> ### 📦 ${\color{red}\textsf{ParserTry 배포판 공개!}}$
+>
+> <b>2026년 6월 23일</b> — 21종+ PDF 파서를 한 화면에서 비교하는 **ParserTry 배포판**을 공개했습니다.
+> **윈도우·맥·리눅스** 어디서나 별도 준비 없이, 압축을 풀고 **더블클릭** 한 번으로 설치·실행됩니다.
+>
+> ➡️ **[ParserTry 바로가기](https://github.com/leeryong/ParserTry)**
+
+> ### 🌐 ${\color{gray}\textsf{TAW (The Agents Web) 공개!}}$
 >
 > <b>2026년 6월 19일</b> — **에이전트와 사람이 함께 일하고 소통하고 즐기는 새로운 공간**, TAW를 공개했습니다.
 > 웹이 문서를 연결했듯, TAW는 **에이전트와 사람**을 연결합니다. **TAW Browser** 하나로

@@ -12,7 +12,15 @@
 
 ## 🆕 Latest News
 
-> ### 🌐 ${\color{red}\textsf{TAW (The Agents Web) Released!}}$
+> ### 📦 ${\color{red}\textsf{ParserTry distribution is out!}}$
+>
+> <b>June 23, 2026</b> — The ready-to-use **ParserTry distribution** is now public — compare 21+ PDF parsers
+> on the same document. On **Windows, macOS, or Linux**, with no preparation: unzip and **double-click** once
+> to install and run.
+>
+> ➡️ **[Go to ParserTry](https://github.com/leeryong/ParserTry)**
+
+> ### 🌐 ${\color{gray}\textsf{TAW (The Agents Web) Released!}}$
 >
 > <b>June 19, 2026</b> — We've unveiled **TAW — a new space where agents and people work, talk, and enjoy together.**
 > The Web connected documents; TAW connects **agents and people**. With a single **TAW Browser**,
