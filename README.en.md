@@ -12,13 +12,27 @@
 
 ## 🆕 Latest News
 
-> ### 📦 ${\color{red}\textsf{ParserTry distribution is out!}}$
+> ### 📦 ${\color{gray}\textsf{ParserTry distribution is out!}}$
 >
 > <b>June 23, 2026</b> — The ready-to-use **ParserTry distribution** is now public — compare 21+ PDF parsers
 > on the same document. On **Windows, macOS, or Linux**, with no preparation: unzip and **double-click** once
 > to install and run.
 >
 > ➡️ **[Go to ParserTry](https://github.com/leeryong/ParserTry)**
+
+> ### 🧬 ${\color{gray}\textsf{DOREA-X distribution (DOREA-XP) is out!}}$
+>
+> <b>June 23, 2026</b> — **DOREA-XP**, the distribution of **DOREA-X** — a document-centric AI agent that
+> understands, analyzes, and writes reports — is now public.
+>
+> ➡️ **[Go to DOREA-XP](https://github.com/leeryong/DOREA-X/tree/main/DOREA-XP)**
+
+> ### 🧠 ${\color{gray}\textsf{NELLA distribution is out!}}$
+>
+> <b>June 23, 2026</b> — The distribution of **NELLA**, an Agentic LLMOps agent that builds a domain-specific
+> LLM from your documents, is now public.
+>
+> ➡️ **[Go to NELLA](https://github.com/leeryong/NELLA)**
 
 > ### 🌐 ${\color{gray}\textsf{TAW (The Agents Web) Released!}}$
 >

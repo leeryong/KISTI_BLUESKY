@@ -12,12 +12,26 @@
 
 ## 🆕 최신 소식 (Latest News)
 
-> ### 📦 ${\color{red}\textsf{ParserTry 배포판 공개!}}$
+> ### 📦 ${\color{gray}\textsf{ParserTry 배포판 공개!}}$
 >
 > <b>2026년 6월 23일</b> — 21종+ PDF 파서를 한 화면에서 비교하는 **ParserTry 배포판**을 공개했습니다.
 > **윈도우·맥·리눅스** 어디서나 별도 준비 없이, 압축을 풀고 **더블클릭** 한 번으로 설치·실행됩니다.
 >
 > ➡️ **[ParserTry 바로가기](https://github.com/leeryong/ParserTry)**
+
+> ### 🧬 ${\color{gray}\textsf{DOREA-X 배포판(DOREA-XP) 공개!}}$
+>
+> <b>2026년 6월 23일</b> — 문서 이해·분석부터 보고서 작성·지식 정리까지 돕는 문서 중심 AI 에이전트
+> **DOREA-X**의 배포판 **DOREA-XP**를 공개했습니다.
+>
+> ➡️ **[DOREA-XP 바로가기](https://github.com/leeryong/DOREA-X/tree/main/DOREA-XP)**
+
+> ### 🧠 ${\color{gray}\textsf{NELLA 배포판 공개!}}$
+>
+> <b>2026년 6월 23일</b> — 문서만 주면 도메인 특화 LLM을 만들어 주는 Agentic LLMOps 에이전트
+> **NELLA**의 배포판을 공개했습니다.
+>
+> ➡️ **[NELLA 바로가기](https://github.com/leeryong/NELLA)**
 
 > ### 🌐 ${\color{gray}\textsf{TAW (The Agents Web) 공개!}}$
 >
